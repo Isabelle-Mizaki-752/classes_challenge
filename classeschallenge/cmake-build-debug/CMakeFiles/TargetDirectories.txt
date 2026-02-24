@@ -1,0 +1,3 @@
+C:/Users/fukud/OneDrive/Desktop/OwO/classeschallenge/cmake-build-debug/CMakeFiles/classeschallenge.dir
+C:/Users/fukud/OneDrive/Desktop/OwO/classeschallenge/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/fukud/OneDrive/Desktop/OwO/classeschallenge/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -31,7 +31,7 @@ double const BankAccount::GetBalance() {
 }
 void BankAccount::deposit(double& amount) {
     balance = this->balance + amount; //adds the amount to the current account's balance
-}// checks if subracting the amount provided will put the balance below 0 before either taking the amount out of the balance or saying 
+}// checks if subracting the amount provided will put the balance below 0 before either taking the amount out of the balance or saying
 void BankAccount::withdraw(double& amount) {
     temptotal = this->balance - amount;
     if (temptotal < 0.0) {
